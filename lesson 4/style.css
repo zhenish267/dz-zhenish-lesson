@@ -1,0 +1,46 @@
+.wrapper {
+    width:800px;
+    margin: 0 auto;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.chan {
+    margin: 0 auto 50px;
+    text-align: center;
+}
+.form {
+    display: flex;
+    flex-direction:column;
+    width:300px;
+    margin: 0 auto;
+}
+.counter {
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin: 0 auto;
+    flex-direction:column;
+    text-align: center;
+}
+.btn {
+    height: 30px;
+    width: 200px;
+    background: #fff;
+    border-radius: 18px;
+}
+#log {
+    margin-bottom: 5px;
+}
+#pass {
+    margin-bottom: 10px;
+}
+#get {
+    height: 20px;
+    width: 100px;
+    background: #fff;
+    border-radius: 8px;
+    margin: 0 auto;
+}
